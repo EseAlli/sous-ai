@@ -1,7 +1,7 @@
 ---
 title: Sous AI
 emoji: 🍳
-colorFrom: white
+colorFrom: gray
 colorTo: pink
 sdk: gradio
 sdk_version: "6.20.0"
