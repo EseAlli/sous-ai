@@ -1,3 +1,14 @@
+---
+title: Sous AI
+emoji: 🍳
+colorFrom: white
+colorTo: pink
+sdk: gradio
+sdk_version: "6.20.0"
+app_file: app.py
+pinned: false
+---
+
 # sous-ai - Gradio Chat
 
 A simple streaming chat web app built with [Gradio](https://www.gradio.app/) and powered by the [OpenRouter](https://openrouter.ai/) API. The chatbot acts as a cooking assistant: it helps with recipes, ingredient substitutions, and nutritional information across a variety of cuisines.
