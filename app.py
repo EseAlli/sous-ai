@@ -12,7 +12,7 @@ openai = OpenAI(
     base_url=openrouter_url,
     api_key=api_key
 )
-MODEL = 'openrouter/free'
+MODEL = 'openrouter/free' # TODO :switch to using an instruct model
 
 
 system_prompt = """
